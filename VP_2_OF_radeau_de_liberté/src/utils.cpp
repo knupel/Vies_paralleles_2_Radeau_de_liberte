@@ -1,6 +1,6 @@
-#include "utils.h"
-#include "vector/vec2.h"
-#include "vector/ivec2.h"
+#include "utils.hpp"
+#include "vector/vec2.hpp"
+#include "vector/ivec2.hpp"
 
 
 void check_pos(int w, int h, int & x, int & y, int security) {

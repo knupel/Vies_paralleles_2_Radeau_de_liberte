@@ -1,9 +1,9 @@
 
-#include "ofApp.h"
-#include "utils.h"
-#include "painting.h"
-#include "vector/vec2.h"
-#include "vector/ivec2.h"
+#include "ofApp.hpp"
+#include "utils.hpp"
+#include "painting.hpp"
+#include "vector/vec2.hpp"
+#include "vector/ivec2.hpp"
 
 ofImage radeau;
 ofImage liberte;

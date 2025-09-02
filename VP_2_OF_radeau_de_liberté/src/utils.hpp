@@ -1,8 +1,8 @@
 #pragma once
 
 #include "ofMain.h"
-#include "vector/vec2.h"
-#include "vector/ivec2.h"
+#include "vector/vec2.hpp"
+#include "vector/ivec2.hpp"
 
 int rgb1(int r, int g, int b);
 int rgb2(int r, int g, int b);

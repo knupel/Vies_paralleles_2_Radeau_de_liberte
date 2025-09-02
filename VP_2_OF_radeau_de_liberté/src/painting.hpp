@@ -2,8 +2,8 @@
 #pragma once
 
 #include "ofMain.h"
-#include "vector/vec2.h"
-#include "vector/ivec2.h"
+#include "vector/vec2.hpp"
+#include "vector/ivec2.hpp"
 
 void pixels_spray(ivec2 size, ivec2 pos, int intensity, float radius, ofTexture & tex_rgb, ofPixels & pix_rgb, ofImage & img);
 void pixel_voyageur(int width, int height, int & x, int & y, ofColor pix_color, ofTexture & tex_rgb, ofPixels & pix_rgb);
